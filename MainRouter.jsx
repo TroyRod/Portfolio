@@ -1,12 +1,12 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './components/Home'
+import Home from './Components/Home'
 import About from './src/about'
 import Contact from './src/contact'
 import Education from './src/education'
 import Project from './src/project'
 import Skills from './src/skills'
-import Layout from './components/Layout'
+import Layout from './Components/Layout'
 
 
 const MainRouter = () => {
